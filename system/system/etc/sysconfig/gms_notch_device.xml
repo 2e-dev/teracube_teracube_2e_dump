@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <!--Track notch_device log -->
+    <feature name="com.gigaset.hardware.display.camera_notch" />
+</config>
