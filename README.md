@@ -1,0 +1,14 @@
+# full_yk673v6_lwg62_64-user 10 QP1A.190711.020 p1k61v164bspP36 release-keys
+- manufacturer: teracube
+- platform: mt6765
+- codename: Teracube_2e
+- flavor: full_yk673v6_lwg62_64-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: 202104281930
+- tags: release-keys
+- fingerprint: Teracube/Teracube_2e/Teracube_2e:10/QP1A.190711.020/202104281930:user/release-keys
+- is_ab: false
+- brand: Teracube
+- branch: full_yk673v6_lwg62_64-user-10-QP1A.190711.020-p1k61v164bspP36-release-keys
+- repo: teracube_teracube_2e_dump

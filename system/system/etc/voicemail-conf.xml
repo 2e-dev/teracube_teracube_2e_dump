@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<voicemail>
+
+<!-- add for trx-ss607-->
+<voicemail numeric="26202"    carrier="Vodacom"      vmnumber="5500"    />
+<voicemail numeric="26207"    carrier="Vodacom"      vmnumber="333"    />
+<voicemail numeric="26201"    carrier="Telekom"      vmnumber="3311"    />
+
+</voicemail>
